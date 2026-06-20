@@ -197,10 +197,10 @@ export default function Contact() {
                   <div>
                     <p className="text-sm font-medium text-xifoz-text mb-1">Email</p>
                     <a
-                      href="mailto:contact@xifoz.com"
+                      href="mailto:support@xifoz.com"
                       className="text-sm text-xifoz-text-secondary hover:text-xifoz-blue transition-colors"
                     >
-                      contact@xifoz.com
+                      support@xifoz.com
                     </a>
                   </div>
                 </div>
@@ -212,10 +212,10 @@ export default function Contact() {
                   <div>
                     <p className="text-sm font-medium text-xifoz-text mb-1">Phone</p>
                     <a
-                      href="tel:+911244567890"
+                      href="tel:+917999994828"
                       className="text-sm text-xifoz-text-secondary hover:text-xifoz-blue transition-colors"
                     >
-                      +91 124 456 7890
+                      +91 79999 94828
                     </a>
                   </div>
                 </div>
@@ -253,10 +253,10 @@ export default function Contact() {
                 <div className="text-center p-6">
                   <MapPin size={32} className="mx-auto mb-3 text-xifoz-blue/30" />
                   <p className="text-sm text-xifoz-text-secondary">
-                    Gurugram, Haryana, India
+                    Gurugram, Haryana 122002
                   </p>
                   <p className="text-xs text-xifoz-text-secondary/60 mt-1">
-                    28.4595° N, 77.0266° E
+                    Serving clients across India and globally
                   </p>
                 </div>
               </div>
